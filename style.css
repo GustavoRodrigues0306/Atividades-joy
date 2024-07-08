@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(184, 200, 80);
+}
+ 
+
+p{
+    font-size: medium;
+    font-weight: 100;
+}
+
+a{
+    text-decoration: none;
+}
